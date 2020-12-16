@@ -1,7 +1,7 @@
 # Formations web
 
 * Initiation HTML-CSS
-* Perfectionnement HTML-CSS
+* Perfectionnement HTML-CSS APIs, Grid CSS,...
 * CMS - WordPress créer un site professionnel
 * CMS - WordPress WooCommerce
 * Initiation à l'UX par la pratique
