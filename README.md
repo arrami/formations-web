@@ -3,6 +3,7 @@
 * Initiation HTML-CSS
 * Perfectionnement HTML-CSS
 * CMS - WordPress créer un site professionnel
+* CMS - WordPress WooCommerce
 * Initiation à l'UX par la pratique
 * UI - Maquettage et prototypage avec Figma
 * UI - Suite Affinity Affinity Designer Affinity Photo
