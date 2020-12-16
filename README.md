@@ -5,7 +5,7 @@
 * CMS - WordPress créer un site professionnel
 * Initiation à l'UX par la pratique
 * UI - Maquettage et prototypage avec Figma
-* UI - Suite Affinity Affinty Designer Affinity Photo
+* UI - Suite Affinity Affinity Designer Affinity Photo
 * Initiation à JavaScript
 * Initiation Frameworks JavaScript et MVC
 * NDRC WordPress Webmarketing
