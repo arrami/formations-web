@@ -12,9 +12,9 @@
 * NDRC SuiteCRM
 * NDRC Mautic Marketing automation
 * NDRC PrestaShop
-* Formation SEO initiation 
-* Formation SEO Google Tag Manager
-* Formation SMO
+* SEO initiation 
+* SEO Google Tag Manager
+* SMO
 
 # Lexique du digital
 [Définitions Digital](https://definitions-digital.com)
